@@ -1,0 +1,3 @@
+[submodule "dbot-fun"]
+	path = dbot-fun
+	url = https://github.com/tam1192/dbot-fun.git
